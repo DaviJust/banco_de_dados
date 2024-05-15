@@ -61,7 +61,7 @@
         <p>Antonio Juevan - antoniojuevan@gmail.com</p>
     </li>
     <li>
-        <p>Davi Justino - </p>
+        <p>Davi Justino - davijustinocouto@gmail.com</p>
     </li>
     <li>
         <p>Diego Fernando - diegoreis.dvlopr@gmail.com</p>
@@ -70,7 +70,7 @@
         <p>João Guilherme - joaoguilheerm@outlook.com</p>
     </li>
     <li>
-        <p>Luiz Fernando - </p>
+        <p>Luiz Fernando - luizfernando.duartevidal1@gmail.com</p>
     </li>
 </ul>
 
