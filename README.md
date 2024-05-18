@@ -10,46 +10,61 @@
 <ul>
     <li>
         <h5>Modelo Conceitual</h5>
-        <!-- <img src="" alt="Modelo Conceitual" title="Modelo Conceitual"> -->
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/modelo_conceitual.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
     </li>
     <li>
         <h5>Modelo Físico</h5>
-        <!-- <img src="" alt="Modelo Físico" title="Modelo Físico"> -->
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/modelo_fisico.png?raw=true" alt="Modelo Físico" title="Modelo Físico">
     </li>
 </ul>
 <h3>📋 Exemplo de Registros</h3>
-<!-- <img src="" alt="Exemplos de Registros" title="Exemplos de Registros"> -->
-<br>
+<ul>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_aluno.png?raw=true">Tabela Aluno</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_curso.png?raw=true">Tabela Curso</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_facilitador.png?raw=true">Tabela Facilitador</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_log_aluno.png?raw=true">Tabela Log_Aluno</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_modulo.png?raw=true">Tabela Modulo</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_relacao_modulo_curso.png?raw=true">Tabela Relacional Modulo/Curso</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_relacao_turma_facilitador.png?raw=true">Tabela Relacional Turma/Facilitador</a>
+    </li>
+    <li>
+        <a href="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/tabela_turma.png?raw=true">Tabela Turma</a>
+    </li>
+</ul>
 <h3>❓ Perguntas e Respostas</h3>
 <ol>
-    <li>Qual a turma com maior número de alunos?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual o módulo com maior índice de reprovação?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual curso tem o maior número de aprovados?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual turma tem menor número de aprovados?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual a porcentagem de alunos que teve evasão?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual o facilitador com maior média de avaliações positivas pelos alunos?</li>
-        <ul><li>
-        </li></ul>
-    <li>Qual a turma com a maior média de notas?</li>
-        <ul><li>
-        </li></ul>
+    <li>Qual a quantidade total de estudantes cadastrados no banco, quantos estão ativos e qauntos inativos?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_1.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
+    <li>Quais Facilitadores atuam em mais de uma turma?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_2.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
+    <li>Qual a porcentagem de estudantes com status de evasão por turma?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_3.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
+    <li>Qual a porcentagem de estudantes com status de evasão por Curso?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_4.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
+    <li>Quantos estudantes mudaram seu status para inativo no último mês?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_5.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
+    <li>Quais alunos matriculados estão ativos atualmente em módulos que fazem parte de cursos com duração superior a 6 meses?</li>
+        <img src="https://github.com/Juevan/Projeto_Grupo_M2_CNSEG/blob/main/views/pergunta_6.png?raw=true" alt="Modelo Conceitual" title="Modelo Conceitual">
 </ol>
 
 <h3>💻 Tecnologias Utilizadas</h3>
     <ul>
-        <li></li>
-        <!-- <li></li>
-        <li></li> -->
+        <li>VS CODE</li>
+        <li>BRMODELO</li>
+        <li>MYSQL WORKBENCH</li>
     </ul>
 
 <h3>➕ Como Contribuir</h3>
